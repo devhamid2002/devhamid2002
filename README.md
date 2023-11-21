@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 🌱 I’m currently learning react
+
 📫 How to reach me hamid.yavarzadeh@hotmail.com
+
 👯 I’m looking to collaborate on Front-End Developer
 
 
