@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m currently learning Machine Learning
+🌱 I’m currently learning Software Development
 
 📫 How to reach me hamid.yavarzadeh@hotmail.com
 
