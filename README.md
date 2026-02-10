@@ -1,40 +1,62 @@
-### Hi there 👋
+# 👋 Hamid! 🎮✨
 
-🌱 I’m currently learning Software Development
+Vibing to epic beats 🎧 | Coding trading bots 🤖 | Charting markets like a shinobi 📈  
+A Next.js-slinging, algo-trading, game-loving dreamer on a quest to conquer code and markets.
 
-📫 How to reach me hamid.yavarzadeh@hotmail.com
+---
 
-👯 I’m looking to collaborate on Software Developer
+## 🎧 My Vibe Statement
+🎶 + 🧠 + 📊 = **Ultimate Flow State**
 
+From slicing through clean code like a samurai to backtesting strategies with ninja precision,  
+I'm always chasing the next level. Add a little anime OST, and I’m unstoppable.  
+Let’s grind, trade, and vibe! 🚀
 
-Languages and tools:
+---
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-[![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png)
-<!--
-**devhamid2002/devhamid2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Tech Stack & Arsenal
+My toolkit for coding, trading, and slaying projects:
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,ts,python,git,linux" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 GitHub Stats & Grind
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devhamid2002&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devhamid2002&layout=compact&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=devhamid2002&theme=tokyonight" />
+</p>
+
+---
+
+## 🧪 Epic Projects & Quests
+
+- **🤖 Company AI Chatbot** – Secure multi-tenant AI assistant with role-based access, tailored for teams  
+- **☕ Café Finder** – Discover nearby cafés with real-time crowd info & amenities  
+- **🧠 AI Pattern Detector** – Smart pattern recognition for trading insights  
+- **🌐 Web Automation Scripts** – Automating workflows like a true shinobi  
+
+✨ Level up with my [repositories](https://github.com/devhamid2002?tab=repositories)!
+
+---
+
+## 🎯 My Mission & Endgame
+
+🚀 Building next-gen AI tools and intelligent trading systems  
+🧠 Mastering AI + Automation  
+📈 Scaling ideas into real-world impact
+
+---
+
+## 🤝 Let's Team Up!
+
+Ready to vibe on code, charts, or games? Hit me up!  
+
+<p align="center">
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)  
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
+</p>
