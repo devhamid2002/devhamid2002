@@ -17,8 +17,7 @@ A Next.js-slinging, algo-trading, game-loving dreamer on a quest to conquer code
 ## 🎧 My Vibe Statement
 🎶 + 🧠 + 📊 = **Ultimate Flow State**
 
-From slicing through clean code like a samurai to backtesting strategies with ninja precision,  
-I'm always chasing the next level. Add a little anime OST, and I’m unstoppable.  
+From slicing through clean code like a samurai to backtesting strategies with ninja precision,I'm always chasing the next level. Add a little anime OST, and I’m unstoppable.  
 Let’s grind, trade, and vibe! 🚀
 
 ---
