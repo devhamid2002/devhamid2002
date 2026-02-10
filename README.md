@@ -1,5 +1,6 @@
+<p align="center">
 # 👋 Hamid! 🎮✨
-
+</p>
 Vibing to epic beats 🎧 | Coding trading bots 🤖 | Charting markets like a shinobi 📈  
 A Next.js-slinging, algo-trading, game-loving dreamer on a quest to conquer code and markets.
 
