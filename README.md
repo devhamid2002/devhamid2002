@@ -1,8 +1,16 @@
+<h1 align="center">
+👋 Hamid! 🎮✨
+</h1>
 <p align="center">
-# 👋 Hamid! 🎮✨
+Vibing to epic beats 🎧 | Coding trading bots 🤖 | Building AI magic like a digital wizard 💻  
 </p>
-Vibing to epic beats 🎧 | Coding trading bots 🤖 | Charting markets like a shinobi 📈  
+<p align="center">
 A Next.js-slinging, algo-trading, game-loving dreamer on a quest to conquer code and markets.
+</p>
+
+<p align="center">
+  <img src="https://github.com/devhamid2002/devhamid2002/blob/main/NextJs.webp?raw=true" width="200" alt="Next.js Banner" />
+</p>
 
 ---
 
@@ -24,13 +32,12 @@ My toolkit for coding, trading, and slaying projects:
 
 ---
 
-## 📊 GitHub Stats & Grind
+## 📈 GitHub Stats & Grind
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devhamid2002&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devhamid2002&layout=compact&theme=tokyonight" />
   <img src="https://streak-stats.demolab.com?user=devhamid2002&theme=tokyonight" />
 </p>
+
 
 ---
 
@@ -41,7 +48,7 @@ My toolkit for coding, trading, and slaying projects:
 - **🧠 AI Pattern Detector** – Smart pattern recognition for trading insights  
 - **🌐 Web Automation Scripts** – Automating workflows like a true shinobi  
 
-✨ Level up with my [repositories](https://github.com/devhamid2002?tab=repositories)!
+ *Level up with my [repo](https://github.com/devhamid2002?tab=repositories)!*
 
 ---
 
@@ -55,9 +62,23 @@ My toolkit for coding, trading, and slaying projects:
 
 ## 🤝 Let's Team Up!
 
-Ready to vibe on code, charts, or games? Hit me up!  
+Ready to vibe on code, charts, or games? Hit me up! ☕
 
 <p align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)  
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
+  <a href="https://www.linkedin.com/in/hamidreza-yavarzadeh-ba682829b">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="display:block"/>
+  </a>
+  
+  <a href="https://x.com/devhamid2002">
+    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" style="display:block"/>
+  </a>
+  
+  <a href="mailto:hamid.yavarzadeh@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="display:block"/>
+  </a>
 </p>
+
+
+
+
+
